@@ -35,6 +35,8 @@
 
 **Packages:**
 
+```
 A File Icon
 All Autocomplete
 Aura Theme Color Scheme
+```
